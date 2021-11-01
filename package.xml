@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ros_testing_demo_pkg</name>
+  <version>0.0.1</version>
+  <description>The ros_testing_demo_pkg package</description>
+  <maintainer email="alex.gutenkunst+github@gmail.com">Alexander Gutenkunst</maintainer>
+
+  <license>TODO</license>
+
+  <author email="alex.gutenkunst+github@gmail.com">Alexander Gutenkunst</author>
+
+  <test_depend>code_coverage</test_depend>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_export_depend>roscpp</build_export_depend>
+  <exec_depend>roscpp</exec_depend>
+
+</package>
