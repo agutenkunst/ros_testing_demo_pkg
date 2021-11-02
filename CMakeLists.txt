@@ -26,6 +26,7 @@ include_directories(
 
 add_library(${PROJECT_NAME}-lib
   src/add.cpp
+  src/substract.cpp
 )
 
 #############
