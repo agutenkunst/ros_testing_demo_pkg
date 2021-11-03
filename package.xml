@@ -10,6 +10,7 @@
   <author email="alex.gutenkunst+github@gmail.com">Alexander Gutenkunst</author>
 
   <test_depend>code_coverage</test_depend>
+  <test_depend>rosunit</test_depend>
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>roscpp</build_depend>
   <build_export_depend>roscpp</build_export_depend>
