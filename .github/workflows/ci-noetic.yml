@@ -37,6 +37,7 @@ jobs:
           ROS_REPO: testing
           CODE_COVERAGE: "codecov.io"
           CODE_COVERAGE_EXCLUDES: "*/src/func_not_covered.cpp"
+          BUILDER: catkin_make_isolated
       - uses: codecov/codecov-action@v1
 
   coveralls:
@@ -51,3 +52,4 @@ jobs:
           CODE_COVERAGE_EXCLUDES: "*/src/func_not_covered.cpp"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COVERALLS_SERVICE_NAME: github
+          BUILDER: catkin_make_isolated
