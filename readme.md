@@ -20,7 +20,7 @@ main-catkin-tools──┴──►main-colcon
 | main-catkin-tools | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools) |
 | main-colcon | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-colcon) |
 
-### Codecov.io
+### Coveralls.io
 | Branch            | Coverage                                                                                                                                                                                                           |
 |-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | main-catkin-make  | [![Coverage Status](https://coveralls.io/repos/github/agutenkunst/ros_testing_demo_pkg/badge.svg?branch=main-catkin-make)](https://coveralls.io/github/agutenkunst/ros_testing_demo_pkg?branch=main-catkin-make)   |
