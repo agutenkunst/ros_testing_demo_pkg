@@ -51,3 +51,4 @@ jobs:
           CODE_COVERAGE_EXCLUDES: "*/src/func_not_covered.cpp"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COVERALLS_SERVICE_NAME: github
+          BUILDER: catkin_make
