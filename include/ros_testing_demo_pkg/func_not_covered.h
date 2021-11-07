@@ -1,0 +1,1 @@
+bool func_not_covered();

@@ -27,8 +27,8 @@ include_directories(
 )
 
 add_library(${PROJECT_NAME}-lib
-  src/add.cpp
-  src/substract.cpp
+  src/func_covered_by_unittest_gtest.cpp
+  src/func_not_covered.cpp
 )
 
 #############
@@ -45,11 +45,11 @@ if(CATKIN_ENABLE_TESTING)
     append_coverage_compiler_flags()
   endif()
 
-  catkin_add_nosetests(test/unittest_multiply.py)
+  catkin_add_nosetests(test/unittest_nosetest.py)
 
-  catkin_add_gtest(unittest_add
-                  test/unittest_add.cpp)
-  target_link_libraries(unittest_add ${PROJECT_NAME}-lib)
+  catkin_add_gtest(unittest_gtest
+                  test/unittest_gtest.cpp)
+  target_link_libraries(unittest_gtest ${PROJECT_NAME}-lib)
 
 
 

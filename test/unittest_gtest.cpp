@@ -1,9 +1,9 @@
-#include "ros_testing_demo_pkg/add.h"
+#include "ros_testing_demo_pkg/func_covered_by_unittest_gtest.h"
 #include <gtest/gtest.h>
 
 TEST(TestSuite, add)
 {
-  EXPECT_EQ(add(1,2),3);
+  EXPECT_TRUE(func_covered_by_unittest_gtest());
 }
 
 int main(int argc, char **argv){

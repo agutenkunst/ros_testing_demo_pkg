@@ -38,7 +38,7 @@ jobs:
         env:
           ROS_REPO: testing
           CODE_COVERAGE: "codecov.io"
-          CODE_COVERAGE_EXCLUDES: "*/src/substract.cpp"
+          CODE_COVERAGE_EXCLUDES: "*/src/func_not_covered.cpp"
       - uses: codecov/codecov-action@v1
 
   coveralls:
@@ -50,6 +50,6 @@ jobs:
         env:
           ROS_REPO: testing
           CODE_COVERAGE: "coveralls.io"
-          CODE_COVERAGE_EXCLUDES: "*/src/substract.cpp"
+          CODE_COVERAGE_EXCLUDES: "*/src/func_not_covered.cpp"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COVERALLS_SERVICE_NAME: github
