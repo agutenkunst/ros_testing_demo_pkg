@@ -1,0 +1,26 @@
+language: generic
+
+dist: focal # otherwise bug with pip in travis
+
+services:
+  - docker
+
+branches:
+  only:
+  - main-catkin-make-travis
+  - main-catkin-make-isolated-travis
+  - main-catkin-tools-travis
+  - main-colcon-travis
+
+env:
+  global:
+    - ROS_DISTRO="noetic"
+    - CODE_COVERAGE_EXCLUDES="*/src/func_not_covered.cpp"
+  matrix: # each line is a job
+    - CODE_COVERAGE="codecov.io"
+    - CODE_COVERAGE="coveralls.io"
+
+install:
+  - git clone --quiet --depth 1 https://github.com/agutenkunst/industrial_ci.git .industrial_ci -b pr-coverage
+script:
+  - .industrial_ci/travis.sh
