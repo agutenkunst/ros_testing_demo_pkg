@@ -23,14 +23,18 @@ Some basics tests for ROS1 used as template and as playground.
 ### Codecov.io
 | Branch            | Coverage                                                                                                                                                                               |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| main-catkin-make (GH Action) | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make)  |
-| main-catkin-make-isolated (GH Action) | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make-isolated/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make-isolated)  |
-| main-catkin-tools (GH Action) | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools) |
-| main-colcon (GH Action) | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-colcon) |
+| **Github Action** |   |
+| main-catkin-make | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make)  |
+| main-catkin-make-isolated  | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make-isolated/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make-isolated)  |
+| main-catkin-tools | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools) |
+| main-colcon | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-colcon) |
+| **Travis CI** |     |
 | main-catkin-make-travis (Travis) | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make-travis/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make-travis) |
 | main-catkin-make-isolated-travis (Travis) | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make-isolated-travis/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make-isolated-travis) |
 | main-catkin-tools-travis (Travis) | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools-travis/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools-travis) |
 | main-colcon-travis (Travis) | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-colcon-travis/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-colcon-travis) |
+| **GitLab CI** |      |
+| main-catkin-tools-gitlab | [![codecov](https://codecov.io/gl/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools-gitlab/graph/badge.svg?token=KFPFCF0UF5)](https://codecov.io/gl/agutenkunst/ros_testing_demo_pkg)|
 
 ### Coveralls.io
 | Branch            | Coverage                                                                                                                                                                                                           |
