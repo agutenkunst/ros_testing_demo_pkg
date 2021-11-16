@@ -50,6 +50,6 @@ Some basics tests for ROS1 used as template and as playground.
 | main-catkin-tools-travis | [![Coverage Status](https://coveralls.io/repos/github/agutenkunst/ros_testing_demo_pkg/badge.svg?branch=main-catkin-tools-travis)](https://coveralls.io/github/agutenkunst/ros_testing_demo_pkg?branch=main-catkin-tools-travis) |
 | main-colcon-travis | [![Coverage Status](https://coveralls.io/repos/github/agutenkunst/ros_testing_demo_pkg/badge.svg?branch=main-colcon-travis)](https://coveralls.io/github/agutenkunst/ros_testing_demo_pkg?branch=main-colcon-travis) |
 | **Gitlab CI** |   |
-| main-catkin-tools-gitlab | [![Coverage Status](https://coveralls.io/repos/gitlab/agutenkunst/ros_testing_demo_pkg/badge.svg?branch=HEAD)](https://coveralls.io/gitlab/agutenkunst/ros_testing_demo_pkg?branch=HEAD) |
+| main-catkin-tools-gitlab (Branches broken) | [![Coverage Status](https://coveralls.io/repos/gitlab/agutenkunst/ros_testing_demo_pkg/badge.svg?branch=HEAD)](https://coveralls.io/gitlab/agutenkunst/ros_testing_demo_pkg?branch=HEAD) |
 
 
