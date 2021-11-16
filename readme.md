@@ -39,13 +39,17 @@ Some basics tests for ROS1 used as template and as playground.
 ### Coveralls.io
 | Branch            | Coverage                                                                                                                                                                                                           |
 |-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Github Action** |    |
 | main-catkin-make  | [![Coverage Status](https://coveralls.io/repos/github/agutenkunst/ros_testing_demo_pkg/badge.svg?branch=main-catkin-make)](https://coveralls.io/github/agutenkunst/ros_testing_demo_pkg?branch=main-catkin-make)   |
 | main-catkin-make-isolated  | [![Coverage Status](https://coveralls.io/repos/github/agutenkunst/ros_testing_demo_pkg/badge.svg?branch=main-catkin-make-isolated)](https://coveralls.io/github/agutenkunst/ros_testing_demo_pkg?branch=main-catkin-make-isolated)   |
 | main-catkin-tools | [![Coverage Status](https://coveralls.io/repos/github/agutenkunst/ros_testing_demo_pkg/badge.svg?branch=main-catkin-tools)](https://coveralls.io/github/agutenkunst/ros_testing_demo_pkg?branch=main-catkin-tools) |
 | main-colcon | [![Coverage Status](https://coveralls.io/repos/github/agutenkunst/ros_testing_demo_pkg/badge.svg?branch=main-colcon)](https://coveralls.io/github/agutenkunst/ros_testing_demo_pkg?branch=main-colcon) |
+| **Travis** |    |
 | main-catkin-make-travis | [![Coverage Status](https://coveralls.io/repos/github/agutenkunst/ros_testing_demo_pkg/badge.svg?branch=main-catkin-make-travis)](https://coveralls.io/github/agutenkunst/ros_testing_demo_pkg?branch=main-catkin-make-travis) |
 | main-catkin-make-isolated-travis | [![Coverage Status](https://coveralls.io/repos/github/agutenkunst/ros_testing_demo_pkg/badge.svg?branch=main-catkin-make-isolated-travis)](https://coveralls.io/github/agutenkunst/ros_testing_demo_pkg?branch=main-catkin-make-isolated-travis) |
 | main-catkin-tools-travis | [![Coverage Status](https://coveralls.io/repos/github/agutenkunst/ros_testing_demo_pkg/badge.svg?branch=main-catkin-tools-travis)](https://coveralls.io/github/agutenkunst/ros_testing_demo_pkg?branch=main-catkin-tools-travis) |
 | main-colcon-travis | [![Coverage Status](https://coveralls.io/repos/github/agutenkunst/ros_testing_demo_pkg/badge.svg?branch=main-colcon-travis)](https://coveralls.io/github/agutenkunst/ros_testing_demo_pkg?branch=main-colcon-travis) |
+| **Gitlab CI** |   |
+| main-catkin-tools-gitlab | [![Coverage Status](https://coveralls.io/repos/gitlab/agutenkunst/ros_testing_demo_pkg/badge.svg?branch=HEAD)](https://coveralls.io/gitlab/agutenkunst/ros_testing_demo_pkg?branch=HEAD) |
 
 
