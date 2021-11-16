@@ -16,6 +16,7 @@ env:
   global:
     - ROS_DISTRO="noetic"
     - CODE_COVERAGE_EXCLUDES="*/src/func_not_covered.cpp"
+    - BUILDER="catkin_make"
   matrix: # each line is a job
     - CODE_COVERAGE="codecov.io"
     - CODE_COVERAGE="coveralls.io"
