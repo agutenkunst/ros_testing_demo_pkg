@@ -29,10 +29,10 @@ Some basics tests for ROS1 used as template and as playground.
 | main-catkin-tools | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools) |
 | main-colcon | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-colcon) |
 | **Travis CI** |     |
-| main-catkin-make-travis (Travis) | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make-travis/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make-travis) |
-| main-catkin-make-isolated-travis (Travis) | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make-isolated-travis/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make-isolated-travis) |
-| main-catkin-tools-travis (Travis) | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools-travis/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools-travis) |
-| main-colcon-travis (Travis) | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-colcon-travis/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-colcon-travis) |
+| main-catkin-make-travis | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make-travis/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make-travis) |
+| main-catkin-make-isolated-travis | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make-isolated-travis/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make-isolated-travis) |
+| main-catkin-tools-travis | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools-travis/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools-travis) |
+| main-colcon-travis | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-colcon-travis/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-colcon-travis) |
 | **GitLab CI** |      |
 | main-catkin-tools-gitlab | [![codecov](https://codecov.io/gl/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools-gitlab/graph/badge.svg?token=KFPFCF0UF5)](https://codecov.io/gl/agutenkunst/ros_testing_demo_pkg)|
 
