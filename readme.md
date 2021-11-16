@@ -22,7 +22,10 @@ main-catkin-tools──┼──►main-colcon
 | main-catkin-make-isolated (GH Action) | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make-isolated/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make-isolated)  |
 | main-catkin-tools (GH Action) | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools) |
 | main-colcon (GH Action) | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-colcon) |
+| main-catkin-make-travis (Travis) | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make-travis/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make-travis) |
+| main-catkin-make-isolated-travis (Travis) | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make-isolated-travis/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-make-isolated-travis) |
 | main-catkin-tools-travis (Travis) | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools-travis/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-catkin-tools-travis) |
+| main-colcon-travis (Travis) | [![codecov](https://codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-colcon-travis/graph/badge.svg?token=FJR4JAC4J0)](https://app.codecov.io/gh/agutenkunst/ros_testing_demo_pkg/branch/main-colcon-travis) |
 
 ### Coveralls.io
 | Branch            | Coverage                                                                                                                                                                                                           |
@@ -31,6 +34,9 @@ main-catkin-tools──┼──►main-colcon
 | main-catkin-make-isolated  | [![Coverage Status](https://coveralls.io/repos/github/agutenkunst/ros_testing_demo_pkg/badge.svg?branch=main-catkin-make-isolated)](https://coveralls.io/github/agutenkunst/ros_testing_demo_pkg?branch=main-catkin-make-isolated)   |
 | main-catkin-tools | [![Coverage Status](https://coveralls.io/repos/github/agutenkunst/ros_testing_demo_pkg/badge.svg?branch=main-catkin-tools)](https://coveralls.io/github/agutenkunst/ros_testing_demo_pkg?branch=main-catkin-tools) |
 | main-colcon | [![Coverage Status](https://coveralls.io/repos/github/agutenkunst/ros_testing_demo_pkg/badge.svg?branch=main-colcon)](https://coveralls.io/github/agutenkunst/ros_testing_demo_pkg?branch=main-colcon) |
+| main-catkin-make-travis | [![Coverage Status](https://coveralls.io/repos/github/agutenkunst/ros_testing_demo_pkg/badge.svg?branch=main-catkin-make-travis)](https://coveralls.io/github/agutenkunst/ros_testing_demo_pkg?branch=main-catkin-make-travis) |
+| main-catkin-make-isolated-travis | [![Coverage Status](https://coveralls.io/repos/github/agutenkunst/ros_testing_demo_pkg/badge.svg?branch=main-catkin-make-isolated-travis)](https://coveralls.io/github/agutenkunst/ros_testing_demo_pkg?branch=main-catkin-make-isolated-travis) |
 | main-catkin-tools-travis | [![Coverage Status](https://coveralls.io/repos/github/agutenkunst/ros_testing_demo_pkg/badge.svg?branch=main-catkin-tools-travis)](https://coveralls.io/github/agutenkunst/ros_testing_demo_pkg?branch=main-catkin-tools-travis) |
+| main-colcon-travis | [![Coverage Status](https://coveralls.io/repos/github/agutenkunst/ros_testing_demo_pkg/badge.svg?branch=main-colcon-travis)](https://coveralls.io/github/agutenkunst/ros_testing_demo_pkg?branch=main-colcon-travis) |
 
 
