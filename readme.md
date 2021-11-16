@@ -4,14 +4,19 @@ Some basics tests for ROS1 used as template and as playground.
 
 ## Branch structure of this repo
 ```
-                   ┌──►main-catkin-make
-                   │
-                   ├──►main-catkin-make-isolated
-                   │
-main-catkin-tools──┼──►main-colcon
-                   │
-                   │
-                   └────►main-catkin-tools-travis
+* c5bd705 (origin/main-catkin-make-isolated, main-catkin-make-isolated) Set BUILDER: catkin_make_isolated
+| * fe2a68c (origin/main-catkin-make-isolated-travis, main-catkin-make-isolated-travis) Set BUILDER: catkin_make_isolated
+| | * 83252e3 (HEAD -> main-colcon-travis, origin/main-colcon-travis) Set BUILDER: colcon
+| |/  
+| | * 3d9d086 (origin/main-catkin-make-travis, main-catkin-make-travis) Set BUILDER: catkin_make
+| |/  
+| * 81b119a (origin/main-catkin-tools-travis, main-catkin-tools-travis) Setup for travis
+|/  
+| * a53b3c5 (origin/main-catkin-make, main-catkin-make) Set BUILDER: catkin_make
+|/  
+| * ddf32c0 (origin/main-colcon, main-colcon) Set BUILDER: colcon
+|/  
+* c94d11f (origin/main-catkin-tools, main-catkin-tools) Disable catkin_lint
 ```
 ## Code Coverage
 
